@@ -1,4 +1,4 @@
-public class hoteldata{
+public class HotelDataClass{
     public static void main(String[] args) { // method
         /*
         * This program is a summary of the lessons.
